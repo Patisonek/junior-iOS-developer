@@ -4,3 +4,5 @@ TOdoIst
 
 https://blog.doist.com/the-ultimate-guide-to-personal-productivity-methods-eef50340f575
 https://www.apple.com/swift/
+https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/
+https://codewithchris.com/learn-swift/
